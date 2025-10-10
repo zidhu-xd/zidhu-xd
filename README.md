@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Sidharth**, a passionate **Developer**, **Certified Ethical Hacker (CEH)**, and **Cyber Security Researcher** from **Kerala, India**.  
+Hey! I'm **Sidharth**, a passionate **Developer** and **Cyber Security Researcher** from **Kerala, India**.  
 Born on **Jan 22, 2009** (currently **16 years old**).  
 I enjoy building secure applications, solving CTFs, and exploring the world of cybersecurity.
 
