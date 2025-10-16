@@ -27,7 +27,7 @@ My personal portfolio website: [zidhuxd.me](https://zidhuxd.me)
 
 ## 🛠️ Skills & Tech Stack
 
-- **Languages:** Python, JavaScript, Bash, HTML/CSS
+- **Languages:** Python, JavaScript, HTML/CSS
 - **Security:** Penetration Testing, Vulnerability Assessment, Forensics, Malware Analysis
 - **Tools:** Burp Suite, Metasploit, Wireshark, Nmap
 - **Platforms:** **GitHub**, **Google Cloud**, **Kali Linux**, **Ubuntu**
