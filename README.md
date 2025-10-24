@@ -1,4 +1,4 @@
-# Sidharth (@zidhu-xd)
+# Sidharth Santhosh (@zidhu-xd)
 
 [@zidhuxd](https://instagram.com/zidhuxd)  
 
@@ -6,7 +6,7 @@
 
 Hey! I'm **Sidharth**, a passionate **Developer** and **Cyber Security Researcher** from **Kerala, India**.  
 Born on **Jan 22, 2009** (currently **16 years old**).  
-I enjoy building secure applications, solving CTFs, and exploring the world of cybersecurity.
+I enjoy exploring the world of cybersecurity.
 
 My personal portfolio website: https://zidhuxd.me
 
