@@ -1,4 +1,4 @@
-# Sidharth Santhosh (@zidhu-xd)
+# Sidharth S (@zidhu-xd)
 
 [@zidhuxd](https://instagram.com/zidhuxd)  
 
@@ -14,7 +14,7 @@ My personal portfolio website: https://zidhuxd.me
 
 ## 🛠️ Skills & Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS  
+- **Languages:** HTML/CSS  
 - **Security:** Penetration Testing, Vulnerability Assessment, Forensics, Malware Analysis  
 - **Tools:** Burp Suite, Metasploit, Wireshark, Nmap  
 - **Platforms:** GitHub, Google Cloud, Kali Linux, Ubuntu
